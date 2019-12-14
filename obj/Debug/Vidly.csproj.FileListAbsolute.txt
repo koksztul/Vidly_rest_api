@@ -117,4 +117,12 @@ C:\Users\kamil\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.addedMoviesAn
 C:\Users\kamil\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.addedGenreIdtoMovies.resources
 C:\Users\kamil\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.deletedSecondGenreIdtoMovies.resources
 C:\Users\kamil\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.populateGenre.resources
-C:\Users\kamil\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.populateGenre1.resources
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\kamil\source\repos\Vidly\Vidly\bin\AutoMapper.xml
+C:\Users\kamil\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.modifiedMovieProperthies.resources
